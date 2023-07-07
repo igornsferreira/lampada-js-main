@@ -1,1 +1,1 @@
-Projeto - Lampada em JS
+Lampada em JS

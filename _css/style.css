@@ -1,0 +1,17 @@
+header, section{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+h1{
+    font-family: Verdana;
+    font-style: bold;
+    color: darkblue;
+    text-align: center;
+}
+
+button{
+    width: 80px;
+    font-family: Verdana;
+}
